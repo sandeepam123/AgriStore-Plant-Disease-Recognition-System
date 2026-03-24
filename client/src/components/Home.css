@@ -1,0 +1,60 @@
+.categories-card1{
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url('https://agriplexindia.com/cdn/shop/collections/Seed___Saplings.png?pad_color=fff&v=1714216673&width=350');
+}
+.categories-card2{
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url('https://agriplexindia.com/cdn/shop/collections/New_Project_3.png?pad_color=fff&v=1714216579&width=350');
+}
+.categories-card3{
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url('https://agriplexindia.com/cdn/shop/collections/implement-01.png?pad_color=fff&v=1714216488&width=350');
+}
+.categories-card4{
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    background-size: cover;
+    background-image: url('https://agriplexindia.com/cdn/shop/collections/crop-care-4390547.png?pad_color=fff&v=1760442671&width=350');
+}
+.cartegories{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 600px;
+    height: auto;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.categories-card5{
+    height: 200px;
+    width: 200px;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    background-color: aqua;
+}

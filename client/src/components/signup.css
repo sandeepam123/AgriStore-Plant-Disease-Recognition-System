@@ -1,0 +1,22 @@
+@import './login.css';
+
+
+.signup-left {
+  background: linear-gradient(135deg, #0066ff, #0052d4);
+}
+
+.signup-right {
+  background: #ffffff;
+}
+
+.signup-button {
+  background: #0066ff;
+}
+
+.signup-button:hover {
+  background: #0052d4;
+}
+
+.signup-left .auth-switch-link {
+  color: #ffffff;
+}
